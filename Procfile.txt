@@ -1,2 +1,1 @@
 web: sh setup.sh && streamlit run nats_mlb_app.py
-worker: python nats_mlb_app.py
