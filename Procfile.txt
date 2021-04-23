@@ -1,2 +1,2 @@
-web: python nats_mlb_app.py
-worker: sh setup.sh && streamlit run nats_mlb_app.py
+web: sh setup.sh && streamlit run nats_mlb_app.py
+worker: python nats_mlb_app.py
