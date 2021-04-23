@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run nats_mlb_app.py
+web: sh setup.txt && streamlit run nats_mlb_app.py
